@@ -1,1 +1,1 @@
-# Advanced-ML-and-DL-for-Terrain-Detection-and-Segmentation-for-Autonomous-Vehicle-Navigation
+# Advanced-ML-DL-for-Terrain-Detection-and-Segmentation-for-Autonomous-Vehicle-Navigation
